@@ -22,6 +22,15 @@ I am a Product Designer based in Ludhiana, Punjab, dedicated to creating life-ch
 * **Website:** [www.robioz.com](https://www.robioz.com)
 * **Email:** sameeralam01r@gmail.com
 
+
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/sameer-alam-8a0b39396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-alam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sameeralam03r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameeralam03r" height="30" width="40" /></a>
+<a href="https://www.robioz.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="robioz" height="30" width="40" /></a>
+<a href="mailto:sameeralam01r@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sameeralam01r" height="30" width="40" /></a>
+
 ---
 
 ### ☕ About Me:
