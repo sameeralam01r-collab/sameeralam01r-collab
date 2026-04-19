@@ -17,8 +17,8 @@ I am a Product Designer based in Ludhiana, Punjab, dedicated to creating life-ch
 * **Tools:** VS Code, Git/GitHub
 
 ### 📫 Connect with me:
-* **LinkedIn:** [www.linkedin.com/in/sameer-alam-8a0b39396]
-* **Instagram:** [https://www.instagram.com/sameeralam03r/]
+* **LinkedIn:** www.linkedin.com/in/sameer-alam-8a0b39396
+* **Instagram:** https://www.instagram.com/sameeralam03r/
 * **Website:** [www.robioz.com](https://www.robioz.com)
 * **Email:** sameeralam01r@gmail.com
 
