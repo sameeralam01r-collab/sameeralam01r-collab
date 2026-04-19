@@ -16,9 +16,6 @@ I am a Product Designer based in Ludhiana, Punjab, dedicated to creating life-ch
 * **Programming:** Python, Embedded Systems
 * **Tools:** VS Code, Git/GitHub
 
-#### ⚙️ Embedded & Hardware
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Feed/arduino.svg" alt="arduino" height="40" width="40" />
-
 ### 📫 Connect with me:
 <a href="https://www.linkedin.com/in/sameer-alam-8a0b39396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-alam" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sameeralam03r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameeralam03r" height="30" width="40" /></a>
