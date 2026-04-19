@@ -16,18 +16,6 @@ I am a Product Designer based in Ludhiana, Punjab, dedicated to creating life-ch
 * **Programming:** Python, Embedded Systems
 * **Tools:** VS Code, Git/GitHub
 
-* ### My Tech Stack:
-
-#### 🎨 Design & 3D Modeling
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="fusion360" height="40" width="40" /> **Fusion 360** (Product Design)
-
-#### 💻 Programming & Tools
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
-
 #### ⚙️ Embedded & Hardware
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Feed/arduino.svg" alt="arduino" height="40" width="40" />
 
